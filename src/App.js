@@ -26,8 +26,8 @@ function App() {
     
     <p>
       
-      <a href="https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=438s" target="_blank"> [ Ideia original ]</a>
-      </p>
+      <a href="https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=438s" target="_blank"> Ideia original </a>
+      do freeCodeCamp</p>
 
   </footer>
   </>
